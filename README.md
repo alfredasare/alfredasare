@@ -19,7 +19,6 @@ so awesome :fire:.
 [<img align="left" alt="alfredasare | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<br />
 
 ### Languages and Tools:
 
@@ -40,7 +39,6 @@ so awesome :fire:.
 <br />
 
 ---
-<br />
 
 
 ### 📕 Latest Blog Posts
