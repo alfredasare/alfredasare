@@ -40,8 +40,6 @@ so awesome :fire:.
 <br />
 
 ---
-
-<br />
 <br />
 
 
