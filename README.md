@@ -9,7 +9,7 @@ technologies as well.
 I love everything JavaScript and that's what I use every single day. For building websites, I mainly use React since its
 so awesome :fire:. 
 
----
+<br />
 
 ### Let's link up:
 
@@ -19,8 +19,7 @@ so awesome :fire:.
 [<img align="left" alt="alfredasare | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
----
+<br />
 
 ### Languages and Tools:
 
