@@ -49,8 +49,6 @@ so awesome :fire:.
 
 ➡️ [more blog posts...](https://alfredasare.me/blog)
 
----
-
 [website]: http://alfredasare.me/
 [twitter]: https://twitter.com/alfredamoah_
 [instagram]: https://www.instagram.com/_alfredamoah_/
