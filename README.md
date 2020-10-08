@@ -57,7 +57,7 @@ Love reading, playing games and watching anime :sunglasses:.
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="alfred's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alfredasare&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="alfred's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alfredasare&show_icons=true&hide_border=true&count_private=true&hide=stars" />
 
 </details>
 
