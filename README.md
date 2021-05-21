@@ -52,15 +52,6 @@ Love reading, playing games and watching anime :sunglasses:.
 
 ➡️ [more blog posts...](https://alfredasare.me/blog)
 
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="alfred's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alfredasare&show_icons=true&hide_border=true&count_private=true&hide=stars" />
-
-</details>
-
 [website]: http://alfredasare.me/
 [twitter]: https://twitter.com/alfredamoah_
 [instagram]: https://www.instagram.com/_alfredamoah_/
