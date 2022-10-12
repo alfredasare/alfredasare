@@ -6,9 +6,8 @@ I'm a web developer based in Tema, Ghana. I like to design and code clean, simpl
 beautiful and satisfying to use. Though I work mainly on the front-end, I have some experience with backend 
 technologies as well.
 
-I love everything JavaScript and that's what I use every single day. For building websites, I mainly use React since its
-so awesome :fire:. Recently began to get my hands dirty with Gatsby and NextJS which are both awesome frameworks. Currently learning 
-backend development using Node.
+I love everything JavaScript and that's what I use every single day. For building websites, I mainly use NextJS since its
+so awesome :fire:. Currently learning backend development using Node and Express.
 
 Love reading, playing games and watching anime :sunglasses:.
 
