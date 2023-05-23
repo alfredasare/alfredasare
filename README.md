@@ -3,12 +3,9 @@
 ---
 
 I'm a software engineer based in Tema, Ghana. I like to design and code clean, simple and minimalistic UI that are 
-beautiful and satisfying to use. I started mainly on the frontend but along my career path I've picked up backend skills
-like creating REST and GraphQL APIs and Cloud development skills as well.
+beautiful and satisfying to use. I started mainly on the frontend but transitioned to the backend and DevOps.
 
-I love everything TypeScript and that's what I use for both frontends and backends.
-
-Love reading, playing games and watching anime :sunglasses:.
+Feel free to reach out to me if you want to collaborate or if you just want to have a chat. 
 
 <br />
 
