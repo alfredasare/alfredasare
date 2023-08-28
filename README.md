@@ -2,7 +2,7 @@
 
 ---
 
-I'm a software engineer based in Tema, Ghana. I like to design and code clean, simple and minimalistic UI that are 
+I'm a software engineer based in Montreal, Canada. I like to design and code clean, simple and minimalistic UI that are 
 beautiful and satisfying to use. I started mainly on the frontend but transitioned to the backend and DevOps.
 
 Feel free to reach out to me if you want to collaborate or if you just want to have a chat. 
